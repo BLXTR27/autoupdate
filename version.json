@@ -1,8 +1,9 @@
 {
   "LatestVersion": "1.0.3.0",
-  "DownloadUrl": "https://github.com/BLXTR27/autoupdate/releases/download/v1.0.3/autoUpdater.Setup.msi",
-  "ReleaseNotes": "Bug fixes and improvements."
+  "downloadUrl": "https://github.com/BLXTR27/autoupdate/releases/download/v1.0.3/autoUpdater.Setup.msi",
+  "releaseNotes": "Bug fixes and improvements."
 }
+
 
 
 
