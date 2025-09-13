@@ -1,8 +1,9 @@
 {
-  "LatestVersion": "1.0.5.2",
-  "downloadUrl": "https://github.com/BLXTR27/autoupdate/releases/download/v1.0.5.2/autoUpdater.Setup.msi",
-  "releaseNotes": "Remove Silent Install"
+  "LatestVersion": "1.0.5.5",
+  "downloadUrl": "https://github.com/BLXTR27/autoupdate/releases/download/v1.0.5.5/autoUpdater.Setup.msi",
+  "releaseNotes": "Added Spinner"
 }
+
 
 
 
