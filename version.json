@@ -1,8 +1,9 @@
 {
-  "LatestVersion": "1.0.0.1",
-  "DownloadUrl": "https://github.com/BLXTR27/autoupdate/releases/download/v1.0.0.1/autoUpdater.Setup.msi",
+  "LatestVersion": "1.0.0.2",
+  "DownloadUrl": "https://github.com/BLXTR27/autoupdate/releases/download/v1.0.0.2/autoUpdater.Setup.msi",
   "ReleaseNotes": "Added Spinner"
 }
+
 
 
 
